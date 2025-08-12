@@ -50,7 +50,17 @@ Sistem chatbot kesehatan berbasis Retrieval-Augmented Generation (RAG) yang memb
 ```bash
 python app.py
 ```
-
+**Struktur Proyek**
+```graphsql
+rag_health_assistant/
+├── data/                   # Dokumen sumber
+├── index/                  # File index FAISS
+├── models/                 # Model LLM
+├── app.py                  # Aplikasi utama
+├── build_index.py          # Script pembangun index
+├── requirements.txt        # Dependencies
+└── README.md               # Dokumentasi
+```
 **Konfigurasi**
 Edit app.py untuk penyesuaian:
 ```bash
