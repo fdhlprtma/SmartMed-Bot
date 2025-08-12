@@ -1,0 +1,12 @@
+[Jadwal Imunisasi Dasar]  
+0 bulan: Hepatitis B-1  
+1 bulan: BCG, Polio-1  
+2 bulan: DPT-HB-Hib-1, Polio-2  
+... dst  
+
+[Vaksin Tambahan]  
+- Influenza (tahunan)  
+- HPV (remaja putri)  
+- Japanese Encephalitis (daerah endemis)  
+
+[sumber: Buku KIA, Kemenkes 2023]  
