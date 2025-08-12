@@ -1,4 +1,4 @@
-# Health-Assistant-(SistemChatbotKesehatanBerbasisRAG)
+# SmartMed Bot - Sistem Q&A Kesehatan
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -23,7 +23,7 @@ Sistem chatbot kesehatan berbasis Retrieval-Augmented Generation (RAG) yang memb
 
 1. Clone repositori:
     ```bash
-    git clone https://github.com/username/rag_health_assistant.git
+    git clone https://github.com/fdhlprtma/SmartMed-Bot.git
     cd rag_health_assistant
 2. Buat environment virtual:
    ```bash
